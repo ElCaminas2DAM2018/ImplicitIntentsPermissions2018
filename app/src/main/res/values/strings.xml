@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentsPermissions2018</string>
+    <string name="startBrowser">Start Browser</string>
+    <string name="startPhone">Start Phone</string>
+</resources>
